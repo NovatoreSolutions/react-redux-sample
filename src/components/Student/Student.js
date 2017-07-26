@@ -6,6 +6,10 @@ import StudentList from './StudentList';
 class Student extends Component{
 
 
+
+  componentDidMount(){
+    
+  }
     constructor(){
 
         super();
